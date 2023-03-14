@@ -1,0 +1,139 @@
+:root{
+	--color-hover-menu:#FE8F01;
+}
+body{
+	font-size: 14px;
+	background-color: #3a3a3a;
+}
+header{
+	background-color: #3d3d3d;
+	padding: 10px 0;
+}
+footer{
+	background-color: #333333;
+	color: #bababa;
+	padding: 15px 0;
+	text-align: center;
+}
+
+
+
+#aboutUs {
+  padding: 50px 0;
+  background-color: #f5f5f5;
+}
+
+#aboutUs {
+	padding: 50px 0;
+	background-color: #f5f5f5;
+  }
+  
+  .about-title {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 4rem;
+	font-weight: 800;
+	margin-top: 1rem;
+	margin-bottom: 2rem;
+	color: #646464;
+  }
+
+  .about-us-box {
+	background-color: #494949;
+	padding: 40px;
+	border-radius: 20px;
+	text-align: center;
+	color: #fff;
+  }
+  
+  .about-us-icon {
+	background-color: #fe8f01;
+	width: 70px;
+	height: 70px;
+	border-radius: 50%;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 20px;
+	border: 4px solid white;
+  }
+  
+  .about-us-icon i {
+	color: #fff;
+	font-size: 30px;
+  }
+  
+  .about-us-box h2 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	font-size: 24px;
+	margin-bottom: 20px;
+  }
+  
+  .about-us-box p {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	line-height: 1.5;
+	margin-bottom: 0;
+  }
+  
+  .about-us-box-mobile {
+	background-color: #494949;
+	padding: 40px;
+	border-radius: 20px;
+	text-align: center;
+	color: #fff;
+	margin-top: 20px;
+  }
+
+  #counter {
+	padding: 50px 0;
+	background-color: #010101;
+	color: #fff;
+  }
+  
+  .counter-box {
+	text-align: center;
+	padding: 50px 0;
+  }
+  
+  .counter-box i {
+	font-size: 48px;
+	color: #ffffff;
+	margin-bottom: 20px;
+  }
+  
+  .counter-box h2 {
+	font-size: 48px;
+	font-weight: bold;
+	margin-bottom: 10px;
+  }
+  
+  .counter-box p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+	margin-bottom: 0;
+	text-transform: uppercase;
+	color: #fe8f01;
+  }
+  
+  @media (max-width: 768px) {
+	.counter-box {
+	  padding: 30px 0;
+	}
+  
+	.counter-box i {
+	  font-size: 36px;
+	  margin-bottom: 10px;
+	}
+  
+	.counter-box h2 {
+	  font-size: 36px;
+	}
+  
+	.counter-box p {
+	  font-size: 16px;
+	}
+  }
